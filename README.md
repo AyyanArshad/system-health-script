@@ -67,5 +67,6 @@ TOP 5 PROCESSES (By memory):
 This script currently produces a **report** — a point-in-time snapshot. A planned follow-up will turn it into a **monitor**: adding threshold logic (OK / WARNING / CRITICAL) for CPU, memory, and disk, so it can be run on a schedule (cron/systemd timer) and raise alerts rather than just print numbers.
 
 ## License
+the script link : https://github.com/AyyanArshad/system-health-script/blob/main/health_script.sh
 
 MIT
